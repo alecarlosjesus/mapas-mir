@@ -1,0 +1,43 @@
+.acH2{
+    text-align: center;
+    color: #fff;
+    padding: 3vh;
+    font-size: 2rem;
+}
+
+.palcoMapaAc{
+
+    width: 80vw;
+    height: 70vh;
+    margin: auto;
+}
+
+.listaImgAc{
+    list-style: none;
+    color: #fff;
+    margin: 4vh auto;
+}
+
+.listaImgAc li{
+    display: inline;
+    padding: 4vh 1.1vw;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+
+.listaImgAc li:hover{
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .imgAc{
+    width: 70vh;
+  }
+
+  .boxImgAc{
+    margin: 0 19vw;
+  }
+
+
+

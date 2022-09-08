@@ -8,7 +8,6 @@ import valeGinko from './img/vale-ginko.png'
 import valeSerpentes from './img/vale-serpentes.png'
 import './AreasComuns.css'
 import { useState } from 'react'
-import { useEffect } from 'react'
 
 export default function AreasComuns() {
 

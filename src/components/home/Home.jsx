@@ -5,7 +5,7 @@ export default function Home() {
     return (
         <div>
             <figure>
-                <img src={logoBase} className="bg_section1_first_anniversary" />
+                <img src={logoBase} className="bg_section1_first_anniversary" alt="logo do mir" />
             </figure>
         </div>
     )

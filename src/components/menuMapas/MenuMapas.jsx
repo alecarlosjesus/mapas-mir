@@ -8,10 +8,10 @@ export default function MenuMapas() {
 
             <Link to="/">Home</Link>
             <Link to="/ac">Áreas Comuns</Link>
-            <a href='#'>Centro Espiritual</a>
+            {/* <a href='#'>Centro Espiritual</a>
             <a href='#'>Área de Fantasia</a>
             <a href='#'>Deserto de Fantasia</a>
-            <a href='#'>Vales Ocultos</a>
+            <a href='#'>Vales Ocultos</a> */}
 
         </div>
     )

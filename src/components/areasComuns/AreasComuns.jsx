@@ -27,7 +27,7 @@ export default function AreasComuns() {
             </ul>
             <div className='palcoMapaAc'>
                 <figure className='boxImgAc' >
-                    <img className='imgAc' src={imagem} />
+                    <img className='imgAc' src={imagem} alt="MAPA DAS ÁREAS MIR-4" />
 
                 </figure>
             </div>
